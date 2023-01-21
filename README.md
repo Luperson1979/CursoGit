@@ -1,2 +1,2 @@
 # CursoGit
-Repositório do curso Git Fundamentos
+*Repositório do curso Git Fundamentos
